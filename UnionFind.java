@@ -1,7 +1,5 @@
 // @author Karan
 
-//Need to do: TEST THE MAZE!!!! FIX POSITIONS (FOR SOME REASON, X, Y, AND Z AREN'T RIGHT???)
-
 import java.util.*;
 import java.io.*; 
 
